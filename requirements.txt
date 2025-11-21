@@ -1,0 +1,17 @@
+# Core thư viện cho Deep Learning
+torch                   # PyTorch
+torchvision
+torchaudio
+
+# Xử lý và tính toán dữ liệu
+pandas                  # Để đọc file .csv và xử lý dữ liệu
+numpy                   # Thư viện tính toán
+scikit-learn            # Chủ yếu dùng cho StandardScaler / MinMaxScaler
+
+# Khám phá và trực quan hóa (tùy chọn nhưng nên có)
+matplotlib              # Để vẽ biểu đồ kết quả
+jupyter                 # Để chạy file .ipynb trong thư mục /notebooks
+
+# Crawl dữ liệu web
+requests
+tqdm
